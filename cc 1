@@ -1,0 +1,21 @@
+Google App Engine (GAE) is a cloud computing platform provided by Google that allows developers to build, deploy, and manage applications without having to manage the underlying infrastructure. It is part of the Google Cloud Platform (GCP) and supports multiple programming languages such as Python, Java, Go, PHP, and Node.js.
+
+1. Purpose of Google App Engine
+The primary goal of Google App Engine is to simplify web application development and hosting by:
+
+Providing a fully managed environment.
+
+Automatically scaling applications based on traffic.
+
+Handling security, patching, and server maintenance.
+
+2. Prerequisites for Using App Engine
+Before installing and configuring Google App Engine, the following prerequisites must be met:
+
+A valid Google account.
+
+A Google Cloud project created through the Google Cloud Console.
+
+Billing must be enabled for the project.
+
+Basic knowledge of the programming language in which the app is written.
