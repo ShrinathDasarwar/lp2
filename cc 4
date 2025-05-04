@@ -1,0 +1,29 @@
+Salesforce Cloud is a comprehensive suite of cloud-based applications for Customer Relationship Management (CRM) that provides tools for sales, service, marketing, and more. It offers various services and tools to design, develop, and deploy custom applications that can integrate with other business processes. Using Salesforce Cloud to design and develop a custom application, such as a mini project, enables you to leverage its powerful features for automation, data management, and user experience.
+
+1. Introduction to Salesforce Cloud
+Salesforce Cloud is a robust platform that offers several cloud services for building and managing applications:
+
+Sales Cloud: Focused on managing sales and customer relationships.
+
+Service Cloud: Helps businesses manage customer support and service.
+
+Marketing Cloud: Tools for managing and automating marketing campaigns.
+
+Salesforce Platform: The platform-as-a-service (PaaS) part of Salesforce, providing tools to build and deploy custom applications.
+
+AppExchange: A marketplace for Salesforce apps that can be integrated into custom applications.
+
+2. Key Concepts of Salesforce Cloud for Custom Applications
+Before diving into the design and development of custom applications, it’s important to understand some of the key concepts within Salesforce Cloud:
+
+a. Objects and Records
+Salesforce uses objects to store data, similar to tables in a database.
+
+Standard Objects (e.g., Accounts, Contacts) come pre-configured.
+
+Custom Objects are user-defined objects to store data specific to the application being built.
+
+Each object has records (individual data entries) and fields (attributes or properties of the records).
+
+b. Salesforce Lightning Platform
+The Salesforce Lightning platform is a modern framework for building applications. It includes tools like Lightning App Builder, Lightning Components, and Apex (Salesforce’s proprietary coding language) to design custom user interfaces and business logic.
